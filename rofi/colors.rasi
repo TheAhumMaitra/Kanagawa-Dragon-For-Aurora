@@ -1,0 +1,8 @@
+* {
+    foreground: #c5c9c5;
+    background: #181616;
+    entry-background: #1D1C19;
+    urgent-background: #282727;
+    bordercolor: #54546D;
+
+}

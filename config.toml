@@ -1,0 +1,12 @@
+name = "Kanagawa Dragon"
+version = "0.1.0"
+
+authors = [
+    "Ahum Maitra (@TheAhumMaitra) theahummaitra@gmail.com",
+]
+
+license = "GPL-3.0-or-later"
+
+[gtk]
+theme_name = "Yaru-blue-dark"
+icon_theme = "Yaru-blue"
