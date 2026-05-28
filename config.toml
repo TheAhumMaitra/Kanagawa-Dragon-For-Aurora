@@ -10,3 +10,8 @@ license = "GPL-3.0-or-later"
 [gtk]
 theme_name = "Yaru-blue-dark"
 icon_theme = "Yaru-blue"
+
+[vscode]
+publisher = "metaphore"
+extension_name = "kanagawa-vscode-color-theme"
+theme_name = "Kanagawa Dragon"
